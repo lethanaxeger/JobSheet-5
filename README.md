@@ -1,4 +1,4 @@
-# tralala
+# JobSheet 5 (Latihan)
 #Latihan 1
 
 ![Alt Text](https://github.com/lethanfadlil/tralala/blob/master/Jobs%20Sheet%205%20-%20Word%2022_08_2019%2021_16_58.png)
